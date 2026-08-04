@@ -23,34 +23,34 @@ End-to-end automation tests for DemoQA using Playwright and TypeScript.
 ## Project structure
 
 api/
-  book-store-api.ts
+book-store-api.ts
 
 data/
-  student-data.csv
+student-data.csv
 
 fixtures/
-  page.fixture.ts
+page.fixture.ts
 
 models/
-  student-data.ts
+student-data.ts
 
 pages/
-  book-store.page.ts
-  login.page.ts
-  profile.page.ts
-  student-registration.page.ts
+book-store.page.ts
+login.page.ts
+profile.page.ts
+student-registration.page.ts
 
 resources/
-  profile.jpg
+profile.jpg
 
 tests/
-  book-deletion.spec.ts
-  book-search.spec.ts
-  student-registration.spec.ts
+book-deletion.spec.ts
+book-search.spec.ts
+student-registration.spec.ts
 
 utils/
-  csv-reader.ts
-  environment.ts
+csv-reader.ts
+environment.ts
 
 Prerequisites
 Node.js
