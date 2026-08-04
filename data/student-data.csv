@@ -1,0 +1,3 @@
+scenarioId,firstName,lastName,email,gender,mobile,dateOfBirth,subjects,hobbies,pictureFileName,currentAddress,state,city
+case1.1,Kevin,Lee,kevin.lee@example.com,Male,0909112233,1989-01-01,Maths|Computer Science|Economics,Sports|Reading,profile.jpg,"669 Kings Road, Sunderland, SR17 9RD",Haryana,Karnal
+case1.2,Isla,Smith,,Female,0900443322,,,,,,,
